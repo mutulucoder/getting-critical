@@ -1,0 +1,14 @@
+#box1{
+     border:5px solid black;
+     height:300px;
+     width:300px;
+     background:#00ff00;
+     }
+
+#box2 {
+      
+     border:5px solid black;
+     height:300px;
+     width:300px;
+     background:rgba(255, 0, 0, 1);
+     }
